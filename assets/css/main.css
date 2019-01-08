@@ -702,3 +702,9 @@ header {
     transition-delay: 0.1s;
   }
 }
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+  .linkIndex .linkIndexDrone{
+    margin-bottom: 55px;
+    margin-top: 10px;
+  }
+}
